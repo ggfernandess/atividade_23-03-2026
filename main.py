@@ -45,3 +45,5 @@ else:
 
     if valido:
         print("Sequência válida de evolução!")
+
+ # Gabriel Gomes Fernandes - 172317728 \ Diogo Rafael Varela Butzke - 172316253 \ João Brasil - 172311360 \ Gabriel Klein - 172312555 \ João Vitor Demenech - 1726111321
